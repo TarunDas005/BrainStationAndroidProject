@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BindingWithEditText</string>
+    <string name="userNameEmptyErrorMsg">user name is required</string>
+    <string name="passwordEmptyErrorMsg">password is required</string>
+</resources>

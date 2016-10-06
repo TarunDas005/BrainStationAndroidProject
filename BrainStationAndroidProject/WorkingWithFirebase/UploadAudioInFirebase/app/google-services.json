@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "761508709386",
+    "firebase_url": "https://uploadaudioinfirebase.firebaseio.com",
+    "project_id": "uploadaudioinfirebase",
+    "storage_bucket": "uploadaudioinfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761508709386:android:0a80a9fbe0b6252e",
+        "android_client_info": {
+          "package_name": "com.example.bs148.uploadaudioinfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761508709386-5ds97mp5s46s3kmnb2if3oi628nrd0vk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bs148.uploadaudioinfirebase",
+            "certificate_hash": "4CB43B1A7BE456182183ED02FA49E464106BC6C5"
+          }
+        },
+        {
+          "client_id": "761508709386-s8ibhm2u26askt5gg5qnfpb0oqeqfdul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI05phpeBnbxDT0RfWw4yx1CdA7nt_OvA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761508709386-s8ibhm2u26askt5gg5qnfpb0oqeqfdul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

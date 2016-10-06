@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.bs148.finalcalculatorwithrobolelectric.MainActivity"
+    android:padding="10dp"
+    android:background="@color/colorAccent">
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:ems="10"
+        android:id="@+id/firstNumberEditText"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:hint="Enter First Number"
+        android:background="@drawable/input_background" />
+
+    <EditText
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:ems="10"
+        android:id="@+id/secondNumberEditText"
+        android:hint="Enter Second Number "
+        android:background="@drawable/input_background"
+        android:layout_below="@+id/firstNumberEditText"
+        android:layout_alignStart="@+id/addButton" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="+ Add"
+        android:id="@+id/addButton"
+        android:layout_below="@+id/secondNumberEditText"
+        android:layout_centerHorizontal="true"
+        android:paddingTop="10dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="- Sub"
+        android:id="@+id/subButton"
+        android:layout_below="@+id/addButton"
+        android:layout_alignEnd="@+id/addButton" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Result"
+        android:id="@+id/resultTextView"
+        android:layout_below="@+id/subButton"
+        android:layout_alignStart="@+id/subButton"
+        android:layout_marginTop="20dp"/>
+
+</RelativeLayout>

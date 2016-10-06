@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Sun Oct 02 17:22:28 BDT 2016
+1.base=F\:\\BrainStationAndroidProject\\9_8_2016\\AndroidGooglePlacesApiExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=F\:\\BrainStationAndroidProject\\9_8_2016\\AndroidGooglePlacesApiExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.file=F\:\\BrainStationAndroidProject\\9_8_2016\\AndroidGooglePlacesApiExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+4.set=ANDROID_RESOURCE
+2.base=F\:\\BrainStationAndroidProject\\9_8_2016\\AndroidGooglePlacesApiExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=F\:\\BrainStationAndroidProject\\9_8_2016\\AndroidGooglePlacesApiExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=F\:\\BrainStationAndroidProject\\9_8_2016\\AndroidGooglePlacesApiExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=F\:\\BrainStationAndroidProject\\9_8_2016\\AndroidGooglePlacesApiExample\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=F\:\\BrainStationAndroidProject\\9_8_2016\\AndroidGooglePlacesApiExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.file=F\:\\BrainStationAndroidProject\\9_8_2016\\AndroidGooglePlacesApiExample\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\row_layout.xml
+4.base=F\:\\BrainStationAndroidProject\\9_8_2016\\AndroidGooglePlacesApiExample\\app\\build\\intermediates\\res\\resources-debug.ap_

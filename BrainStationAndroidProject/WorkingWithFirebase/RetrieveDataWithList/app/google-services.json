@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "234549332793",
+    "firebase_url": "https://androidfirebasedemo-2321e.firebaseio.com",
+    "project_id": "androidfirebasedemo-2321e",
+    "storage_bucket": "androidfirebasedemo-2321e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234549332793:android:dbf1d32bea5f31b9",
+        "android_client_info": {
+          "package_name": "com.example.bs148.retrievedatawithlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234549332793-jo569h9me7dhl6dbsro3jhqdaooke39s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bs148.retrievedatawithlist",
+            "certificate_hash": "4CB43B1A7BE456182183ED02FA49E464106BC6C5"
+          }
+        },
+        {
+          "client_id": "234549332793-n85vch8bd46up4cui8sn1vn41l5atqv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXjKBGummlHL3tYtH0aOASan4iw7303vU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234549332793-n85vch8bd46up4cui8sn1vn41l5atqv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

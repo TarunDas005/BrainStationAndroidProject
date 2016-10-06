@@ -1,0 +1,96 @@
+package com.example.bs148.multilevellistview;
+
+import java.util.ArrayList;
+
+/**
+ * Created by BS148 on 9/26/2016.
+ */
+
+public class Items {
+
+    private String pName;
+
+    private ArrayList<SubCategory> mSubCategoryList;
+
+    public Items(String pName, ArrayList<SubCategory> mSubCategoryList) {
+        super();
+        this.pName = pName;
+        this.mSubCategoryList = mSubCategoryList;
+    }
+
+    public String getpName() {
+        return pName;
+    }
+
+    public void setpName(String pName) {
+        this.pName = pName;
+    }
+
+    public ArrayList<SubCategory> getmSubCategoryList() {
+        return mSubCategoryList;
+    }
+
+    public void setmSubCategoryList(ArrayList<SubCategory> mSubCategoryList) {
+        this.mSubCategoryList = mSubCategoryList;
+    }
+
+    public static class SubCategory {
+
+        private String pSubCatName;
+        private ArrayList<ItemList> mItemListArray;
+
+        public SubCategory(String pSubCatName,
+                           ArrayList<ItemList> mItemListArray) {
+            super();
+            this.pSubCatName = pSubCatName;
+            this.mItemListArray = mItemListArray;
+        }
+
+        public String getpSubCatName() {
+            return pSubCatName;
+        }
+
+        public void setpSubCatName(String pSubCatName) {
+            this.pSubCatName = pSubCatName;
+        }
+
+        public ArrayList<ItemList> getmItemListArray() {
+            return mItemListArray;
+        }
+
+        public void setmItemListArray(ArrayList<ItemList> mItemListArray) {
+            this.mItemListArray = mItemListArray;
+        }
+
+        public static class ItemList {
+
+            private String itemName;
+            private String itemPrice;
+
+            public ItemList(String itemName, String itemPrice) {
+                super();
+                this.itemName = itemName;
+                this.itemPrice = itemPrice;
+            }
+
+            public String getItemName() {
+                return itemName;
+            }
+
+            public void setItemName(String itemName) {
+                this.itemName = itemName;
+            }
+
+            public String getItemPrice() {
+                return itemPrice;
+            }
+
+            public void setItemPrice(String itemPrice) {
+                this.itemPrice = itemPrice;
+            }
+
+        }
+
+    }
+
+}

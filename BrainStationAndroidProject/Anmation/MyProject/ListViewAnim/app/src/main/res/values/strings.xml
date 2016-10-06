@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListviewAnimationTest</string>
+    <string name="taptoundo">Tap to undo</string>
+    <string name="itemdeleted">Item deleted</string>
+</resources>

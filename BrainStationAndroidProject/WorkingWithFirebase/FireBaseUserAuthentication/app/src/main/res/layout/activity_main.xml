@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.bs148.firebaseuserauthentication.MainActivity"
+    android:padding="20dp"
+    android:background="@color/colorPrimary">
+
+    <ImageView
+        android:layout_marginTop="10dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/firebase"
+        android:id="@+id/logoImage"
+        android:layout_centerHorizontal="true"/>
+
+    <EditText
+        android:background="@drawable/input_background"
+        android:layout_below="@+id/logoImage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:id="@+id/emailField"
+        android:layout_marginTop="20dp"
+        android:hint="Email ..."
+        android:padding="15dp" />
+
+    <EditText
+        android:background="@drawable/input_background"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="10"
+        android:id="@+id/passwordField"
+        android:layout_below="@+id/emailField"
+        android:layout_alignStart="@+id/emailField"
+        android:layout_marginTop="20dp"
+        android:hint="Password ..."
+        android:padding="15dp" />
+
+    <Button
+        android:textColor="#070766"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sign in"
+        android:id="@+id/loginButton"
+        android:layout_below="@+id/passwordField"
+        android:layout_alignStart="@+id/passwordField"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/btn_background" />
+</RelativeLayout>

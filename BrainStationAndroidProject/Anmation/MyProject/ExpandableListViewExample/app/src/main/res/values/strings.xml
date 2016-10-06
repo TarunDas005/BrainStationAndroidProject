@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ExpandableListViewExample</string>
+
+    <string-array name="header_titles">
+        <item>Action Movies</item>
+        <item>Romantic Movies</item>
+        <item>Horror Movies</item>
+    </string-array>
+    
+    <string-array name="h1_items">
+        <item>The Dark Knight</item>
+        <item>Minority Report</item>
+        <item>The Bourne Ultimatum</item>
+    </string-array>
+
+    <string-array name="h2_items">
+        <item>Shades of Grey</item>
+        <item>The Age of Adaline</item>
+        <item>Titanic</item>
+    </string-array>
+
+    <string-array name="h3_items">
+        <item>Insidious Chapter 3</item>
+        <item>It Follows</item>
+        <item>We are Still Here</item>
+    </string-array>
+</resources>

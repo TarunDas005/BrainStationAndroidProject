@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "492352817813",
+    "firebase_url": "https://fir-retrieverealmdata.firebaseio.com",
+    "project_id": "fir-retrieverealmdata",
+    "storage_bucket": "fir-retrieverealmdata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492352817813:android:152b8c7afd51fc19",
+        "android_client_info": {
+          "package_name": "com.example.bs148.firebaseretrieverealmdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492352817813-27h0do0a90lecmqscsqch9dueflslj4e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bs148.firebaseretrieverealmdata",
+            "certificate_hash": "4CB43B1A7BE456182183ED02FA49E464106BC6C5"
+          }
+        },
+        {
+          "client_id": "492352817813-q67agkr87532dqq31rnutle6m077fi5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8YW-1KaMEhI-MN4vUCyRLL8uKwojSmms"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492352817813-q67agkr87532dqq31rnutle6m077fi5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

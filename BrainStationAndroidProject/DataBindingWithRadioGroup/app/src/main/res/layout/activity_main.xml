@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <data>
+        <variable
+            name="personalInformation"
+            type="com.example.bs148.databindingwithradiogroup.PersonalInformation">
+        </variable>
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/rootViewBackgroundColor">
+
+        <include
+            layout="@layout/name_selector"
+            android:id="@+id/name_selector"/>
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff">
+            <TableRow
+                android:padding="10dp">
+                <TextView
+                    style="@style/tableFirstColumnTextView"
+                    android:text="Person Name"/>
+                <TextView
+                    style="@style/tableSecondColumnTextView"
+                    android:id="@+id/tv_person_name"
+                    android:text="@{personalInformation.name}"/>
+            </TableRow>
+            <include
+                layout="@layout/table_raw_divider"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_weight="1"/>
+            <TableRow
+                android:padding="10dp">
+                <TextView
+                    style="@style/tableFirstColumnTextView"
+                    android:text="Person Id"/>
+                <TextView
+                    style="@style/tableSecondColumnTextView"
+                    android:id="@+id/tv_person_id"
+                    android:text="@{personalInformation.id}"/>
+            </TableRow>
+            <include
+                layout="@layout/table_raw_divider"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_weight="1"/>
+            <TableRow
+                android:padding="10dp">
+                <TextView
+                    style="@style/tableFirstColumnTextView"
+                    android:text="Person Department"/>
+                <TextView
+                    style="@style/tableSecondColumnTextView"
+                    android:id="@+id/tv_person_dept"
+                    android:text="@{personalInformation.department}"/>
+            </TableRow>
+            <include
+                layout="@layout/table_raw_divider"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_weight="1"/>
+        </TableLayout>
+    </LinearLayout>
+</layout>

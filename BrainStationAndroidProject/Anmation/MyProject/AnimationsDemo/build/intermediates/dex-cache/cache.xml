@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\BrainStationAndroidProject\Anmation\AnimationWithThirdPartyApi\MyProject\AnimationsDemo\app\libs\android-support-v13.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="0a0cf96dabecd7b65a3638a229e7bdb42e6b0a77">
+        <dex dex="F:\BrainStationAndroidProject\Anmation\AnimationWithThirdPartyApi\MyProject\AnimationsDemo\app\build\intermediates\pre-dexed\debug\android-support-v13_7b0b56917c49e9ba5ed2a6813e540b54d4b015e8.jar" />
+    </item>
+    <item
+        jar="F:\BrainStationAndroidProject\Anmation\AnimationWithThirdPartyApi\MyProject\AnimationsDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="18f30cdaf006291ee041f17d798adfe1ffec7178">
+        <dex dex="F:\BrainStationAndroidProject\Anmation\AnimationWithThirdPartyApi\MyProject\AnimationsDemo\app\build\intermediates\pre-dexed\debug\instant-run_fc78134cbc659d3d5f26c4f008aa45a6fb77b35a.jar" />
+    </item>
+    <item
+        jar="F:\BrainStationAndroidProject\Anmation\AnimationWithThirdPartyApi\MyProject\AnimationsDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="3a565eaef928b89d2df1590e9c9440ab36a608ae">
+        <dex dex="F:\BrainStationAndroidProject\Anmation\AnimationWithThirdPartyApi\MyProject\AnimationsDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_425a6a9961702c6e7dea851d41e70b1f379b6fc8.jar" />
+    </item>
+
+</items>

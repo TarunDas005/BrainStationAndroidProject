@@ -1,0 +1,7 @@
+android{
+useLibrary 'org.apache.http.legacy'
+}
+
+dependencies{
+testCompile 'org.robolectric:robolectric:3.0'
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\BrainStationAndroidProject\9_8_2016\AndroidGooglePlacesApiExample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3737aceae53686f67f3044e94092ea8edbd592ce">
+        <dex dex="F:\BrainStationAndroidProject\9_8_2016\AndroidGooglePlacesApiExample\app\build\intermediates\pre-dexed\debug\instant-run_6501d1559f5d0ec3393525a5f394116e7f80e067.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\BrainStationAndroidProject\9_8_2016\AndroidGooglePlacesApiExample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2e6a69c44dbe2b94d9f204cde207d30ba7523e3c">
+        <dex dex="F:\BrainStationAndroidProject\9_8_2016\AndroidGooglePlacesApiExample\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6030ed14b931fd50cfebc4c73726cc25abea7867.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BS148\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\BrainStationAndroidProject\9_8_2016\AndroidGooglePlacesApiExample\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_f2d46912db574f426818fc3c720be21cd49a09e1.jar" />
+    </item>
+
+</items>

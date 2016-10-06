@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\BrainStationAndroidProject\\Anmation\\AnimationWithThirdPartyApi\\MyProject\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_info.png",
+        "source": "F:\\BrainStationAndroidProject\\Anmation\\AnimationWithThirdPartyApi\\MyProject\\AnimationsDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "F:\\BrainStationAndroidProject\\Anmation\\AnimationWithThirdPartyApi\\MyProject\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_new.png",
+        "source": "F:\\BrainStationAndroidProject\\Anmation\\AnimationWithThirdPartyApi\\MyProject\\AnimationsDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_action_new.png"
+    },
+    {
+        "merged": "F:\\BrainStationAndroidProject\\Anmation\\AnimationWithThirdPartyApi\\MyProject\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\BrainStationAndroidProject\\Anmation\\AnimationWithThirdPartyApi\\MyProject\\AnimationsDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\BrainStationAndroidProject\\Anmation\\AnimationWithThirdPartyApi\\MyProject\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_photo.png",
+        "source": "F:\\BrainStationAndroidProject\\Anmation\\AnimationWithThirdPartyApi\\MyProject\\AnimationsDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_action_photo.png"
+    },
+    {
+        "merged": "F:\\BrainStationAndroidProject\\Anmation\\AnimationWithThirdPartyApi\\MyProject\\AnimationsDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_list_remove.png",
+        "source": "F:\\BrainStationAndroidProject\\Anmation\\AnimationWithThirdPartyApi\\MyProject\\AnimationsDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_list_remove.png"
+    }
+]

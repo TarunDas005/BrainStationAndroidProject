@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="19"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="273256403872216"
+    token="-7807661277946927861"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="14944" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="448" />
+    <task
+        name="verifier"
+        duration="139" />
+
+    <artifact
+        location="F:\BrainStationAndroidProject\9_8_2016\AndroidGooglePlacesApiExample\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="273256403872216"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="F:\BrainStationAndroidProject\9_8_2016\AndroidGooglePlacesApiExample\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

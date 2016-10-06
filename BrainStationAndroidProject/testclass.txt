@@ -1,0 +1,40 @@
+package com.bs.nfctest.ui;
+
+/**
+ * Created by BS148 on 8/21/2016.
+ */
+public class TestClass {
+    String userName;
+    String password;
+    String ipAddress;
+
+    public TestClass(String userName, String password, String ipAddress) {
+        this.userName = userName;
+        this.password = password;
+        this.ipAddress = ipAddress;
+    }
+
+    public String getUserName() {
+        return userName;
+    }
+
+    public void setUserName(String userName) {
+        this.userName = userName;
+    }
+
+    public String getPassword() {
+        return password;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
+    }
+
+    public String getIpAddress() {
+        return ipAddress;
+    }
+
+    public void setIpAddress(String ipAddress) {
+        this.ipAddress = ipAddress;
+    }
+}
